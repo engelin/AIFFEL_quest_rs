@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/4988501a-161b-4d85-902f-127bb521d264)![image](https://github.com/user-attachments/assets/5d8d3ae3-d545-4778-8576-8dba46298510)# AIFFEL Campus Online Code Peer Review Templete
+Templete
 - 코더 : 홍예린
 - 리뷰어 : 염철헌
 
