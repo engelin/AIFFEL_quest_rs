@@ -1,0 +1,101 @@
+prompt_id,prompt_text,category,has_style,has_negative,group_id,group_order,length
+G1_1,a cat,Simple,False,False,G1,1,2
+G1_2,a detailed cat,Detailed,False,False,G1,2,3
+G1_3,a cinematic dreamy cat,Stylistic,True,False,G1,3,4
+G1_4,a in watercolor style cat,ArtStyle,True,False,G1,4,5
+G1_5,a blurry distorted cat,Negative,False,True,G1,5,4
+G2_1,a dog,Simple,False,False,G2,1,2
+G2_2,a detailed dog,Detailed,False,False,G2,2,3
+G2_3,a cinematic dreamy dog,Stylistic,True,False,G2,3,4
+G2_4,a in watercolor style dog,ArtStyle,True,False,G2,4,5
+G2_5,a blurry distorted dog,Negative,False,True,G2,5,4
+G3_1,a car,Simple,False,False,G3,1,2
+G3_2,a detailed car,Detailed,False,False,G3,2,3
+G3_3,a cinematic dreamy car,Stylistic,True,False,G3,3,4
+G3_4,a in watercolor style car,ArtStyle,True,False,G3,4,5
+G3_5,a blurry distorted car,Negative,False,True,G3,5,4
+G4_1,a mountain,Simple,False,False,G4,1,2
+G4_2,a detailed mountain,Detailed,False,False,G4,2,3
+G4_3,a cinematic dreamy mountain,Stylistic,True,False,G4,3,4
+G4_4,a in watercolor style mountain,ArtStyle,True,False,G4,4,5
+G4_5,a blurry distorted mountain,Negative,False,True,G4,5,4
+G5_1,a forest,Simple,False,False,G5,1,2
+G5_2,a detailed forest,Detailed,False,False,G5,2,3
+G5_3,a cinematic dreamy forest,Stylistic,True,False,G5,3,4
+G5_4,a in watercolor style forest,ArtStyle,True,False,G5,4,5
+G5_5,a blurry distorted forest,Negative,False,True,G5,5,4
+G6_1,a robot,Simple,False,False,G6,1,2
+G6_2,a detailed robot,Detailed,False,False,G6,2,3
+G6_3,a cinematic dreamy robot,Stylistic,True,False,G6,3,4
+G6_4,a in watercolor style robot,ArtStyle,True,False,G6,4,5
+G6_5,a blurry distorted robot,Negative,False,True,G6,5,4
+G7_1,a person,Simple,False,False,G7,1,2
+G7_2,a detailed person,Detailed,False,False,G7,2,3
+G7_3,a cinematic dreamy person,Stylistic,True,False,G7,3,4
+G7_4,a in watercolor style person,ArtStyle,True,False,G7,4,5
+G7_5,a blurry distorted person,Negative,False,True,G7,5,4
+G8_1,a city,Simple,False,False,G8,1,2
+G8_2,a detailed city,Detailed,False,False,G8,2,3
+G8_3,a cinematic dreamy city,Stylistic,True,False,G8,3,4
+G8_4,a in watercolor style city,ArtStyle,True,False,G8,4,5
+G8_5,a blurry distorted city,Negative,False,True,G8,5,4
+G9_1,a desert,Simple,False,False,G9,1,2
+G9_2,a detailed desert,Detailed,False,False,G9,2,3
+G9_3,a cinematic dreamy desert,Stylistic,True,False,G9,3,4
+G9_4,a in watercolor style desert,ArtStyle,True,False,G9,4,5
+G9_5,a blurry distorted desert,Negative,False,True,G9,5,4
+G10_1,a ocean,Simple,False,False,G10,1,2
+G10_2,a detailed ocean,Detailed,False,False,G10,2,3
+G10_3,a cinematic dreamy ocean,Stylistic,True,False,G10,3,4
+G10_4,a in watercolor style ocean,ArtStyle,True,False,G10,4,5
+G10_5,a blurry distorted ocean,Negative,False,True,G10,5,4
+G11_1,a food,Simple,False,False,G11,1,2
+G11_2,a detailed food,Detailed,False,False,G11,2,3
+G11_3,a cinematic dreamy food,Stylistic,True,False,G11,3,4
+G11_4,a in watercolor style food,ArtStyle,True,False,G11,4,5
+G11_5,a blurry distorted food,Negative,False,True,G11,5,4
+G12_1,a flower,Simple,False,False,G12,1,2
+G12_2,a detailed flower,Detailed,False,False,G12,2,3
+G12_3,a cinematic dreamy flower,Stylistic,True,False,G12,3,4
+G12_4,a in watercolor style flower,ArtStyle,True,False,G12,4,5
+G12_5,a blurry distorted flower,Negative,False,True,G12,5,4
+G13_1,a bird,Simple,False,False,G13,1,2
+G13_2,a detailed bird,Detailed,False,False,G13,2,3
+G13_3,a cinematic dreamy bird,Stylistic,True,False,G13,3,4
+G13_4,a in watercolor style bird,ArtStyle,True,False,G13,4,5
+G13_5,a blurry distorted bird,Negative,False,True,G13,5,4
+G14_1,a castle,Simple,False,False,G14,1,2
+G14_2,a detailed castle,Detailed,False,False,G14,2,3
+G14_3,a cinematic dreamy castle,Stylistic,True,False,G14,3,4
+G14_4,a in watercolor style castle,ArtStyle,True,False,G14,4,5
+G14_5,a blurry distorted castle,Negative,False,True,G14,5,4
+G15_1,a rain,Simple,False,False,G15,1,2
+G15_2,a detailed rain,Detailed,False,False,G15,2,3
+G15_3,a cinematic dreamy rain,Stylistic,True,False,G15,3,4
+G15_4,a in watercolor style rain,ArtStyle,True,False,G15,4,5
+G15_5,a blurry distorted rain,Negative,False,True,G15,5,4
+G16_1,a train,Simple,False,False,G16,1,2
+G16_2,a detailed train,Detailed,False,False,G16,2,3
+G16_3,a cinematic dreamy train,Stylistic,True,False,G16,3,4
+G16_4,a in watercolor style train,ArtStyle,True,False,G16,4,5
+G16_5,a blurry distorted train,Negative,False,True,G16,5,4
+G17_1,a street,Simple,False,False,G17,1,2
+G17_2,a detailed street,Detailed,False,False,G17,2,3
+G17_3,a cinematic dreamy street,Stylistic,True,False,G17,3,4
+G17_4,a in watercolor style street,ArtStyle,True,False,G17,4,5
+G17_5,a blurry distorted street,Negative,False,True,G17,5,4
+G18_1,a building,Simple,False,False,G18,1,2
+G18_2,a detailed building,Detailed,False,False,G18,2,3
+G18_3,a cinematic dreamy building,Stylistic,True,False,G18,3,4
+G18_4,a in watercolor style building,ArtStyle,True,False,G18,4,5
+G18_5,a blurry distorted building,Negative,False,True,G18,5,4
+G19_1,a sunset,Simple,False,False,G19,1,2
+G19_2,a detailed sunset,Detailed,False,False,G19,2,3
+G19_3,a cinematic dreamy sunset,Stylistic,True,False,G19,3,4
+G19_4,a in watercolor style sunset,ArtStyle,True,False,G19,4,5
+G19_5,a blurry distorted sunset,Negative,False,True,G19,5,4
+G20_1,a alien,Simple,False,False,G20,1,2
+G20_2,a detailed alien,Detailed,False,False,G20,2,3
+G20_3,a cinematic dreamy alien,Stylistic,True,False,G20,3,4
+G20_4,a in watercolor style alien,ArtStyle,True,False,G20,4,5
+G20_5,a blurry distorted alien,Negative,False,True,G20,5,4

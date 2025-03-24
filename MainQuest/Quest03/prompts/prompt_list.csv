@@ -1,0 +1,26 @@
+prompt_id,prompt_text,category,length,has_style,has_negative
+S1,a cat,Simple,2,False,False
+S2,a car,Simple,2,False,False
+S3,a tree,Simple,2,False,False
+S4,a mountain,Simple,2,False,False
+S5,a person,Simple,2,False,False
+D1,a white cat sitting on a red pillow in a sunny room,Detailed,12,False,False
+D2,a yellow sports car driving through the desert at sunset,Detailed,11,False,False
+D3,a snow-covered mountain with a cabin and smoke from the chimney,Detailed,13,False,False
+D4,an old oak tree standing in a foggy forest,Detailed,10,False,False
+D5,a person wearing a red jacket walking in the rain on a city street,Detailed,15,False,False
+ST1,a gloomy cyberpunk city street,Stylistic,5,True,False
+ST2,a peaceful lake surrounded by autumn trees,Stylistic,7,True,False
+ST3,a cheerful child playing in a flower field,Stylistic,8,True,False
+ST4,a lonely cat staring out a rainy window,Stylistic,9,True,False
+ST5,a dramatic stormy sky over an abandoned house,Stylistic,9,True,False
+A1,a landscape in the style of Van Gogh,ArtStyle,8,True,False
+A2,a portrait of a woman in the style of Picasso,ArtStyle,10,True,False
+A3,a cityscape in the style of Studio Ghibli,ArtStyle,9,True,False
+A4,a forest scene in watercolor style,ArtStyle,6,True,False
+A5,a dog painted like a Renaissance artwork,ArtStyle,8,True,False
+N1,"a cat, low quality, blurry",Negative,5,False,True
+N2,"a car, poorly rendered, distorted",Negative,5,False,True
+N3,"a mountain, messy composition, overexposed",Negative,6,False,True
+N4,"a person, bad anatomy, unrealistic face",Negative,6,False,True
+N5,"a tree, low resolution, pixelated",Negative,6,False,True
